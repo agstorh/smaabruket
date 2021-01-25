@@ -20,7 +20,7 @@
     "@types/jquery": "3.5.5",
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
-    "autoprefixer": "9.8.6",
+    "autoprefixer": "10.2.3",
     "awesome-typescript-loader": "5.2.1",
     "css-loader": "5.0.1",
     "date-fns": "2.16.1",
